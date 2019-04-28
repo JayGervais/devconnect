@@ -42,7 +42,7 @@ InputGroup.propTypes = {
   onChange: PropTypes.func.isRequired
 };
 
-InputGroup.defaultProprs = {
+InputGroup.defaultProps = {
   type: "text"
 };
 
